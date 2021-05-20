@@ -21,6 +21,7 @@ If there are no conflicts, start the server with
 `node app`
 
 Or for a development mode, start the server just with
+
 `npm run dev`
 
 The server now is accessible under http://localhost:3000. A swagger documentation describing all request is available under http://localhost:3000/api-docs.
